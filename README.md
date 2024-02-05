@@ -26,5 +26,6 @@ Separate team bet sizes are calculated by multiplying the arbitrage % of each be
 
 By reverse engineering the API of these sites, runtime can be improved by ~85% over conventional web scraping.
 
-![image](https://github.com/terryhji/arbitragebot/assets/139197235/a2d6ab17-43cb-47e4-a7a7-89b283d6dee3)
-![image](https://github.com/terryhji/arbitragebot/assets/139197235/867704d5-bdd5-4295-842d-62af4f1f928c)
+![image](https://github.com/terryhji/arbitrage/assets/139197235/6179522f-f2cf-4184-be63-42e32d969049)
+![image](https://github.com/terryhji/arbitrage/assets/139197235/3f0a2700-e33a-4409-ae11-3a3f23fe99ab)
+
